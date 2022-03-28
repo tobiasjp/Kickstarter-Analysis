@@ -38,4 +38,4 @@ Considering location as a factor, in colder climates, we may expect May to be a 
 ### Recommendations
 
 It is recommended that an evaluation of the outcomes based on goals be exhibited in box-plot to determine if the success of campaigns with goals above 35,000 represent outliers. 
-Furthermore, it is recommended that campaign run times be evaluated to determine an appropriate length of time to run a campaign, using a line chart.  This would inform the reader if campaign length is a factor is the overall success of a campaign.    
+Furthermore, it is recommended that campaign run times be evaluated to determine an appropriate length of time to run a campaign, using a line chart.  This would inform the reader if campaign length is a factor in the overall success of a campaign.    
