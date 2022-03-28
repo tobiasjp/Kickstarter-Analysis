@@ -10,7 +10,7 @@ In order to increase her chance of success, Louise wanted to determine the best 
 ![LaunchDates](Theater_Outcomes_vs_Launch.png "Launch")
 
 ### Analysis of Outcomes Based on Goals
-Louise would also like to consider how likely her campaign is to succeed based on the fundraising goals of past theatre campaigns.  To perform this analysis, we isolated the data to show only campaigns under the category "theatre" and subcategory of "play", filtering only campaigns that had the outcome of "successful", "failed" and "cancelled", and organized based on 10 ranges of $5,000 increments for campaign goals between $0-$50,000, and grouping all goals above $50,000 as one range.  This data is expected to inform the reader about the likelihood of success based on the fundraising goals of the campaign.
+Louise would also like to consider how likely her campaign is to succeed based on the fundraising goals of past theatre campaigns.  To perform this analysis, we isolated the data to show only campaigns under the category "theatre" and subcategory of "play", filtering only campaigns that had the outcome of "successful", "failed" and "cancelled", and organized based on 11 ranges of $5,000 increments for campaign goals between $0-$50,000, and grouping all goals above $50,000 as one range.  This data is expected to inform the reader about the likelihood of success based on the fundraising goals of the campaign.
 
 ![GoalsOutcomes](Outcomes_vs_goals.png "Outcomes")
 
